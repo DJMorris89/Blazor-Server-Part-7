@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\HomeWork7\SampleDB\bin\Debug\SampleDB.dacpac
+C:\Users\david\Desktop\HomeWork7\SampleDB\bin\Debug\SampleDB.dll
+C:\Users\david\Desktop\HomeWork7\SampleDB\bin\Debug\SampleDB.pdb
+C:\Users\david\Desktop\HomeWork7\SampleDB\obj\Debug\SampleDB.sqlproj.AssemblyReference.cache
+C:\Users\david\Desktop\HomeWork7\SampleDB\obj\Debug\Model.xml
+C:\Users\david\Desktop\HomeWork7\SampleDB\obj\Debug\refactor.xml
+C:\Users\david\Desktop\HomeWork7\SampleDB\obj\Debug\postdeploy.sql
+C:\Users\david\Desktop\HomeWork7\SampleDB\obj\Debug\predeploy.sql
+C:\Users\david\Desktop\HomeWork7\SampleDB\obj\Debug\SampleDB.dll
+C:\Users\david\Desktop\HomeWork7\SampleDB\obj\Debug\SampleDB.pdb
