@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\bin\Debug\netstandard2.0\SupportLibrary.deps.json
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\bin\Debug\netstandard2.0\SupportLibrary.dll
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\bin\Debug\netstandard2.0\SupportLibrary.pdb
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\obj\Debug\netstandard2.0\SupportLibrary.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\obj\Debug\netstandard2.0\SupportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\obj\Debug\netstandard2.0\SupportLibrary.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\obj\Debug\netstandard2.0\SupportLibrary.AssemblyInfo.cs
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\obj\Debug\netstandard2.0\SupportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\obj\Debug\netstandard2.0\SupportLibrary.dll
+C:\Users\david\Desktop\HomeWork7\SupportLibrary\obj\Debug\netstandard2.0\SupportLibrary.pdb
